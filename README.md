@@ -23,6 +23,7 @@ Manipulação de DOM com JavaScript.
 Configuração de intervalos de tempo com setInterval.
 Criação de layouts funcionais com HTML e CSS.
 
-tatianakami.github.io/relogio-digital/
+
+https://tatianakami.github.io/relogio-digital/
 
 
